@@ -319,8 +319,11 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=gtgambit&show_icons=true" />
 </p>
-<p align="center" dir="auto"> <a href="https://github.com/gtgambit/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gtgambit&repo=gtgambit" />
+<p align="center" dir="auto"> <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 </p>
 </article>
