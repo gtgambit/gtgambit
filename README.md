@@ -61,7 +61,7 @@
       I have experience in mobile App building with React Native.
     </p>
     <p dir="auto">
-      👷🏼‍♂️ I do a lot of different jobs like: adding language switching on the site, complex form validation with React Hook Form, yup Resolver and MUI, Kanban board and etc
+      👷🏼‍♂️ I did a lot of different jobs, like: adding multi-language support to the website, creating complex forms with validation using React Hook Form & Yup Resolver and MUI, Drag-and-drop Kanban  board, SPA News website with authorization, React Native Mobile App with form validation and authorization and many etc
     </p>
     <p dir="auto">
       <g-emoji
