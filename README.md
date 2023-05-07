@@ -52,13 +52,9 @@
       </a>
     </p>
     <p dir="auto">
-      ✍🏼 My specialization is creating Web Apps with HTML5 / CSS3, JavaScript
-      ES6+,
-      <strong>
-        React (TypeScript, React I18n, React Router, React Test Utils, React
-        Native, Redux)
+      ✍🏼I specialize in creating web applications using HTML5, CSS3, and JavaScript (specifically ES6+). I also have expertise in React, including TypeScript, React I18n, React Router, React Test Utils, React Native, and Redux. 
       </strong>
-      I have experience in mobile App building with React Native.
+In addition, I have experience in building mobile applications using React Native.
     </p>
     <p dir="auto">
       👷🏼‍♂️ I did a lot of different jobs, like: adding multi-language support to the website, creating complex forms with validation using React Hook Form & Yup Resolver and MUI, Drag-and-drop Kanban  board, SPA News website with authorization, React Native Mobile App with form validation and authorization and many etc
