@@ -71,8 +71,7 @@ Developing a React Native mobile application with form validation and authorizat
         fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png">
         🧠
       </g-emoji>
-      Currently, I am interested in learning other frameworks/libraries. Curious
-      about upgrade courses.
+     Currently, I'm interested in expanding my knowledge by learning new frameworks and libraries. I'm particularly curious about upgrade courses that can help me stay up-to-date with the latest advancements in web development.
     </p>
     <p dir="auto">
       <g-emoji
