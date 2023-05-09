@@ -57,7 +57,7 @@
 In addition, I have experience in building mobile applications using React Native.
     </p>
     <p dir="auto">
-      👷🏼‍♂️ 've completed a variety of different projects, including:
+      👷🏼‍♂️ I've completed a variety of different projects, including:
 Adding multi-language support to websites
 Creating complex forms with validation using React Hook Form & Yup Resolver and MUI
 Developing a drag-and-drop Kanban board
