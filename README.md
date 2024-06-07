@@ -146,178 +146,24 @@ Developing a React Native mobile application with form validation and authorizat
       </a>
       My stack:
     </h2>
-    <p align="left" dir="auto">
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/HTML"
-        rel="nofollow">
-        <img
-          src="https://camo.githubusercontent.com/8280104c77ff20e7b7cd51e275376ad2bc440ae211591f104451602fec5b17bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d3535353f6c6f676f3d68746d6c35267374796c653d666f722d7468652d6261646765"
-          alt="html5"
-          title="HTML5"
-          data-canonical-src="https://img.shields.io/badge/HTML5-555?logo=html5&amp;style=for-the-badge"
-          style="max-width: 100%"
-        />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow">
-        <img
-          src="https://camo.githubusercontent.com/5d85c606f28faffaf6111880f71940f4f2c05011c219f39f3d5020bd946e9715/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3535353f6c6f676f3d63737333266c6f676f436f6c6f723d313537324236267374796c653d666f722d7468652d6261646765"
-          alt="css3"
-          title="CSS3"
-          data-canonical-src="https://img.shields.io/badge/CSS3-555?logo=css3&amp;logoColor=1572B6&amp;style=for-the-badge"
-          style="max-width: 100%"
-        />
-      </a>
-      <a href="https://sass-lang.com" rel="nofollow">
-        <img
-          src="https://camo.githubusercontent.com/cfbf88a0157b6a99a086a12044a9b4abc4ba1f1222c1b882e0e83218c35cf5d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d3535353f6c6f676f3d73617373267374796c653d666f722d7468652d6261646765"
-          alt="sass"
-          title="SASS"
-          data-canonical-src="https://img.shields.io/badge/SASS-555?logo=sass&amp;style=for-the-badge"
-          style="max-width: 100%"
-        />
-      </a>
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        rel="nofollow">
-        <img
-          src="https://camo.githubusercontent.com/5180c7c420fbbc4ac7ec511899f5f6b84eef10ab0f8c0003f044c51f7731fd7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d3535353f6c6f676f3d6a617661736372697074267374796c653d666f722d7468652d6261646765"
-          alt="javascript"
-          title="javascript"
-          data-canonical-src="https://img.shields.io/badge/Javascript-555?logo=javascript&amp;style=for-the-badge"
-          style="max-width: 100%"
-        />
-      </a>
-      <a href="https://www.typescriptlang.org/" rel="nofollow">
-        <img
-          src="https://camo.githubusercontent.com/d9e62f165f5d93533c56854257c47f92451e3fbe9ccb5e2c45b55db2d13780a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970657363726970742d3535353f6c6f676f3d74797065736372697074267374796c653d666f722d7468652d6261646765"
-          alt="typescript"
-          title="TypeScript"
-          data-canonical-src="https://img.shields.io/badge/Typescript-555?logo=typescript&amp;style=for-the-badge"
-          style="max-width: 100%"
-        />
-      </a>
-      <a href="https://reactjs.org/" rel="nofollow">
-        <img
-          src="https://camo.githubusercontent.com/7b2e0c7d90ca13887995364d1986836140a50fd320619164fcb8ab2234062f10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3535353f6c6f676f3d7265616374267374796c653d666f722d7468652d6261646765"
-          alt="react"
-          title="react"
-          data-canonical-src="https://img.shields.io/badge/React-555?logo=react&amp;style=for-the-badge"
-          style="max-width: 100%"
-        />
-      </a>
-      <a href="https://react-redux.js.org/" rel="nofollow">
-        <img
-          src="https://camo.githubusercontent.com/714cc688154a2c6adadf729023259fc2fc0198294b7372a1609f58beb01ab396/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3535353f6c6f676f3d7265647578266c6f676f436f6c6f723d373634414243267374796c653d666f722d7468652d6261646765"
-          alt="redux"
-          title="redux"
-          data-canonical-src="https://img.shields.io/badge/Redux-555?logo=redux&amp;logoColor=764ABC&amp;style=for-the-badge"
-          style="max-width: 100%"
-        />
-      </a>
-      <a href="https://material-ui.com/" rel="nofollow">
-        <img
-          src="https://camo.githubusercontent.com/ec38a46416e38ba39fb2861ba67bf25b3c3e8a3d05a87f0fe11546d9025ce19c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6174657269616c5f75692d3535353f6c6f676f3d6d6174657269616c64657369676e267374796c653d666f722d7468652d6261646765"
-          alt="Material-UI"
-          title="Material-UI"
-          data-canonical-src="https://img.shields.io/badge/material_ui-555?logo=materialdesign&amp;style=for-the-badge"
-          style="max-width: 100%"
-        />
-      </a>
-      <a href="https://www.gnu.org/software/bash/" rel="nofollow">
-        <img
-          src="https://camo.githubusercontent.com/23cc7de1729ff4d608669d297f72a842db4b7646c959240f004ff17934fc1e40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426173682d3535353f6c6f676f3d676e7562617368267374796c653d666f722d7468652d6261646765"
-          alt="bash"
-          title="Bash"
-          data-canonical-src="https://img.shields.io/badge/Bash-555?logo=gnubash&amp;style=for-the-badge"
-          style="max-width: 100%"
-        />
-      </a>
-      <a href="https://git-scm.com/" rel="nofollow">
-        <img
-          src="https://camo.githubusercontent.com/d390b682cfae5596c7085fe5192c69ba39dffa89b374e72877564bc6a4733916/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d3535353f6c6f676f3d676974267374796c653d666f722d7468652d6261646765"
-          alt="git"
-          title="Git"
-          data-canonical-src="https://img.shields.io/badge/Git-555?logo=git&amp;style=for-the-badge"
-          style="max-width: 100%"
-        />
-      </a>
-      <a href="https://gulpjs.com" rel="nofollow">
-        <img
-          src="https://camo.githubusercontent.com/ab5f028c5e3961bccd81d9c8da6d4e81addc34b1ffc80d9e0cf17ab83e597171/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47756c702d3535353f6c6f676f3d67756c70267374796c653d666f722d7468652d6261646765"
-          alt="gulp"
-          title="gulp"
-          data-canonical-src="https://img.shields.io/badge/Gulp-555?logo=gulp&amp;style=for-the-badge"
-          style="max-width: 100%"
-        />
-      </a>
-      <a href="https://parceljs.org/" rel="nofollow">
-        <img
-          src="https://camo.githubusercontent.com/11f9e445b1e402fee7d4d64ef994064c2dc4e1f171a3db948aafff20813d235b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617263656c2d3535353f6c6f676f3d70617263656c267374796c653d666f722d7468652d6261646765"
-          alt="parsel"
-          title="Parsel"
-          data-canonical-src="https://img.shields.io/badge/Parcel-555?logo=parcel&amp;style=for-the-badge"
-          style="max-width: 100%"
-        />
-      </a>
-      <a href="https://webpack.js.org" rel="nofollow">
-        <img
-          src="https://camo.githubusercontent.com/11d026a051269c59d4da8808e61ed52c3a78fb5455b10f38e922e49353fcd71a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5765627061636b2d3535353f6c6f676f3d7765627061636b267374796c653d666f722d7468652d6261646765"
-          alt="webpack"
-          title="Webpack"
-          data-canonical-src="https://img.shields.io/badge/Webpack-555?logo=webpack&amp;style=for-the-badge"
-          style="max-width: 100%"
-        />
-      </a>
-      <a href="https://www.npmjs.com/" rel="nofollow">
-        <img
-          src="https://camo.githubusercontent.com/89ba0246cbeb75ae23f53b74e9e2eded19937b2f385c4210bd2758012cd72bb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e706d2d3535353f6c6f676f3d6e706d267374796c653d666f722d7468652d6261646765"
-          alt="npm"
-          title="NPM"
-          data-canonical-src="https://img.shields.io/badge/Npm-555?logo=npm&amp;style=for-the-badge"
-          style="max-width: 100%"
-        />
-      </a>
-      <a href="https://www.chartjs.org" rel="nofollow">
-        <img
-          src="https://camo.githubusercontent.com/f7fc28397cc1eb851f3869894a22bbb33c45807f5f302e28dd836ddb42481445/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43686172742e6a732d3535353f6c6f676f3d6368617274646f746a73267374796c653d666f722d7468652d6261646765"
-          alt="chartjs"
-          title="Chart.js"
-          data-canonical-src="https://img.shields.io/badge/Chart.js-555?logo=chartdotjs&amp;style=for-the-badge"
-          style="max-width: 100%"
-        />
-      </a>
-      <a href="https://www.figma.com/" rel="nofollow">
-        <img
-          src="https://camo.githubusercontent.com/e84ad83b88fd905ac87a5c3ca38041a503dbf9d777efd0553530b67800d3a5da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3535353f6c6f676f3d6669676d61267374796c653d666f722d7468652d6261646765"
-          alt="figma"
-          title="Figma"
-          data-canonical-src="https://img.shields.io/badge/Figma-555?logo=figma&amp;style=for-the-badge"
-          style="max-width: 100%"
-          id="exifviewer-img-12"
-          exifid="-851940369"
-          oldsrc="https://camo.githubusercontent.com/e84ad83b88fd905ac87a5c3ca38041a503dbf9d777efd0553530b67800d3a5da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3535353f6c6f676f3d6669676d61267374796c653d666f722d7468652d6261646765"
-        />
-      </a>
-    </p>
-   <h2 align="left" dir="auto"><a id="user-content-im-interested-in" class="anchor" aria-hidden="true" href="#im-interested-in"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>I'm interested in:</h2>
-<p align="left" dir="auto">
-  <a href="https://nextjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/5deece72e859121b1fbd7ac6d00bdb6f1da55cb209120f5143a61e9c0bc5e00a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d3535353f6c6f676f3d6e657874646f746a73267374796c653d666f722d7468652d6261646765" alt="nextjs" title="Next.js" data-canonical-src="https://img.shields.io/badge/Next.js-555?logo=nextdotjs&amp;style=for-the-badge" style="max-width: 100%;" id="exifviewer-img-38" exifid="-1349493190" oldsrc="https://camo.githubusercontent.com/5deece72e859121b1fbd7ac6d00bdb6f1da55cb209120f5143a61e9c0bc5e00a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d3535353f6c6f676f3d6e657874646f746a73267374796c653d666f722d7468652d6261646765"></a> 
-  <a href="https://getbootstrap.com" rel="nofollow"><img src="https://camo.githubusercontent.com/d8e68322223e1bb8705f332a2e2cb3a2579120df29a51ed75504bec0ae5dc9ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3535353f6c6f676f3d626f6f747374726170267374796c653d666f722d7468652d6261646765" alt="bootstrap" title="Bootstrap" data-canonical-src="https://img.shields.io/badge/Bootstrap-555?logo=bootstrap&amp;style=for-the-badge" style="max-width: 100%;" id="exifviewer-img-33" exifid="-2000288995" oldsrc="https://camo.githubusercontent.com/d8e68322223e1bb8705f332a2e2cb3a2579120df29a51ed75504bec0ae5dc9ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3535353f6c6f676f3d626f6f747374726170267374796c653d666f722d7468652d6261646765"></a> 
-  <a href="https://tailwindcss.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/ad98f37f97c915aeb4cbf2714c7804b490705396211bfb22e10d0c3148ca7e8e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e646373732d3535353f6c6f676f3d7461696c77696e64637373267374796c653d666f722d7468652d6261646765" alt="Tailwind CSS" title="Tailwind CSS" data-canonical-src="https://img.shields.io/badge/Tailwindcss-555?logo=tailwindcss&amp;style=for-the-badge" style="max-width: 100%;" id="exifviewer-img-10" exifid="815223618" oldsrc="https://camo.githubusercontent.com/ad98f37f97c915aeb4cbf2714c7804b490705396211bfb22e10d0c3148ca7e8e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e646373732d3535353f6c6f676f3d7461696c77696e64637373267374796c653d666f722d7468652d6261646765"></a>
-  <a href="https://www.docker.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/b9628a73a4222091291532267f5d8fb2523f21e89ef736522b5d6543501d806a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3535353f6c6f676f3d646f636b6572267374796c653d666f722d7468652d6261646765" alt="docker" title="Docker" data-canonical-src="https://img.shields.io/badge/Docker-555?logo=docker&amp;style=for-the-badge" style="max-width: 100%;" id="exifviewer-img-36" exifid="-1277002260" oldsrc="https://camo.githubusercontent.com/b9628a73a4222091291532267f5d8fb2523f21e89ef736522b5d6543501d806a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3535353f6c6f676f3d646f636b6572267374796c653d666f722d7468652d6261646765"></a> 
-  <a href="https://vitejs.dev/" rel="nofollow"><img src="https://camo.githubusercontent.com/eefb930bc6292ed382af395c7ae59cdffc7261caf56928b7a4e2c97e9173a3f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f766974652d3535353f6c6f676f3d76697465267374796c653d666f722d7468652d6261646765" alt="vite" title="Vite" data-canonical-src="https://img.shields.io/badge/vite-555?logo=vite&amp;style=for-the-badge" style="max-width: 100%;" id="exifviewer-img-41" exifid="-292226855" oldsrc="https://camo.githubusercontent.com/eefb930bc6292ed382af395c7ae59cdffc7261caf56928b7a4e2c97e9173a3f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f766974652d3535353f6c6f676f3d76697465267374796c653d666f722d7468652d6261646765"></a>
-</p>
-<h3 align="left" dir="auto"><a id="user-content-statistics" class="anchor" aria-hidden="true" href="#statistics"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Statistics:</h3>
-<p align="center" dir="auto">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gtgambit&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gtgambit&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=gtgambit&show_icons=true" />
+   <p align="left" dir="auto">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow"><img src="https://camo.githubusercontent.com/f1b41eeaf80b389f62cc8c9bb52cd46c05d21eb202d05339828f0a6afe830c8b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d3535353f6c6f676f3d68746d6c35267374796c653d666f722d7468652d6261646765" alt="html5" title="HTML5" data-canonical-src="https://img.shields.io/badge/HTML5-555?logo=html5&amp;style=for-the-badge" style="max-width: 100%;"></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow"><img src="https://camo.githubusercontent.com/b09433b84432e0189b9f6dd36fbcffc3d7a783d77bbbc4ff2626f0b41bd51539/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3535353f6c6f676f3d63737333266c6f676f436f6c6f723d313537324236267374796c653d666f722d7468652d6261646765" alt="css3" title="CSS3" data-canonical-src="https://img.shields.io/badge/CSS3-555?logo=css3&amp;logoColor=1572B6&amp;style=for-the-badge" style="max-width: 100%;"></a>
+  <a href="https://sass-lang.com" rel="nofollow"><img src="https://camo.githubusercontent.com/d741c6b4046a6c8fda7f12fbb6c85ab356c6b0421508a96b57d42b83796fe3ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d3535353f6c6f676f3d73617373267374796c653d666f722d7468652d6261646765" alt="sass" title="SASS" data-canonical-src="https://img.shields.io/badge/SASS-555?logo=sass&amp;style=for-the-badge" style="max-width: 100%;"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://camo.githubusercontent.com/aabdeec8dd181dcd6535028c81ba527ea4baa55c1cbaeafacd8b4ad82b8e7199/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d3535353f6c6f676f3d6a617661736372697074267374796c653d666f722d7468652d6261646765" alt="javascript" title="javascript" data-canonical-src="https://img.shields.io/badge/Javascript-555?logo=javascript&amp;style=for-the-badge" style="max-width: 100%;" id="exifviewer-img-6" exifid="437596060" oldsrc="https://camo.githubusercontent.com/aabdeec8dd181dcd6535028c81ba527ea4baa55c1cbaeafacd8b4ad82b8e7199/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d3535353f6c6f676f3d6a617661736372697074267374796c653d666f722d7468652d6261646765"></a>
+  <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/a7f53a5cb54f931575a02f7a59aafaafaaa697e1fd44e92b729c97c6149d38d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970657363726970742d3535353f6c6f676f3d74797065736372697074267374796c653d666f722d7468652d6261646765" alt="typescript" title="TypeScript" data-canonical-src="https://img.shields.io/badge/Typescript-555?logo=typescript&amp;style=for-the-badge" style="max-width: 100%;"></a>
+  <a href="https://vitejs.dev/" rel="nofollow"><img src="https://camo.githubusercontent.com/61b74423223852c476c81c49425f3915ac88ecd9fa555848ea9cd923d5035aeb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f766974652d3535353f6c6f676f3d76697465267374796c653d666f722d7468652d6261646765" alt="vite" title="Vite" data-canonical-src="https://img.shields.io/badge/vite-555?logo=vite&amp;style=for-the-badge" style="max-width: 100%;"></a>
+  <a href="https://vitest.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/4cab58ece903df34447cf47230eb1ee4135e2229c12de0258e91d370e1875f16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7669746573742d3535353f6c6f676f3d766974657374267374796c653d666f722d7468652d6261646765" alt="vitest" title="Vitest" data-canonical-src="https://img.shields.io/badge/vitest-555?logo=vitest&amp;style=for-the-badge" style="max-width: 100%;"></a>
+  <a href="https://jestjs.io/" rel="nofollow"> <img src="https://camo.githubusercontent.com/6ee16be457de7e7a4fefba7c6108fb1e6515e358a8082805e8529290214d4b1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d3535353f6c6f676f3d6a657374267374796c653d666f722d7468652d6261646765" alt="jest" title="Jest" data-canonical-src="https://img.shields.io/badge/Jest-555?logo=jest&amp;style=for-the-badge" style="max-width: 100%;"></a>
+  <a href="https://reactjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/510078edc673505eb3c40aa4ecfeeb64f4332d4634c0cbb6152917b4c78b2171/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3535353f6c6f676f3d7265616374267374796c653d666f722d7468652d6261646765" alt="react" title="react" data-canonical-src="https://img.shields.io/badge/React-555?logo=react&amp;style=for-the-badge" style="max-width: 100%;"></a>
+  <a href="https://react-redux.js.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/c4041f4216709f1ed1bc81d161a7ff5efa365ac9deec14b081ff869fe2d3b17e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3535353f6c6f676f3d7265647578266c6f676f436f6c6f723d373634414243267374796c653d666f722d7468652d6261646765" alt="redux" title="redux" data-canonical-src="https://img.shields.io/badge/Redux-555?logo=redux&amp;logoColor=764ABC&amp;style=for-the-badge" style="max-width: 100%;"></a>
+  <a href="https://material-ui.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/0fd3259c9e6c00342abe561a48665ae58e0555315214e474e781c71eec19ebd1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6174657269616c5f75692d3535353f6c6f676f3d6d6174657269616c64657369676e267374796c653d666f722d7468652d6261646765" alt="Material-UI" title="Material-UI" data-canonical-src="https://img.shields.io/badge/material_ui-555?logo=materialdesign&amp;style=for-the-badge" style="max-width: 100%;"></a> 
+  <a href="https://www.gnu.org/software/bash/" rel="nofollow"> <img src="https://camo.githubusercontent.com/edb79a8df38b44e3d31c9d5b87511d9aeda86c62059c2e6954b761c9bd239404/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426173682d3535353f6c6f676f3d676e7562617368267374796c653d666f722d7468652d6261646765" alt="bash" title="Bash" data-canonical-src="https://img.shields.io/badge/Bash-555?logo=gnubash&amp;style=for-the-badge" style="max-width: 100%;"></a> 
+  <a href="https://git-scm.com" rel="nofollow"><img src="https://camo.githubusercontent.com/ac4eb21f0e8e408654aba198968af7cd51aa8de92583df4da9261a0a5bab52d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d3535353f6c6f676f3d676974267374796c653d666f722d7468652d6261646765" alt="git" title="Git" data-canonical-src="https://img.shields.io/badge/Git-555?logo=git&amp;style=for-the-badge" style="max-width: 100%;" id="exifviewer-img-13" exifid="314407420" oldsrc="https://camo.githubusercontent.com/ac4eb21f0e8e408654aba198968af7cd51aa8de92583df4da9261a0a5bab52d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d3535353f6c6f676f3d676974267374796c653d666f722d7468652d6261646765"></a> 
+  <a href="https://gulpjs.com" rel="nofollow"><img src="https://camo.githubusercontent.com/cfa9463b2cf9c27d9cc1e9393cca50de9975cdbc358eded7f4df729db6b2c9a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47756c702d3535353f6c6f676f3d67756c70267374796c653d666f722d7468652d6261646765" alt="gulp" title="gulp" data-canonical-src="https://img.shields.io/badge/Gulp-555?logo=gulp&amp;style=for-the-badge" style="max-width: 100%;" id="exifviewer-img-2" exifid="2007355310" oldsrc="https://camo.githubusercontent.com/cfa9463b2cf9c27d9cc1e9393cca50de9975cdbc358eded7f4df729db6b2c9a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47756c702d3535353f6c6f676f3d67756c70267374796c653d666f722d7468652d6261646765"></a> 
+  <a href="https://webpack.js.org" rel="nofollow"><img src="https://camo.githubusercontent.com/38adc13d655dc33635f7b7b707ae714bff3907fd1f44a382427b368d234be669/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5765627061636b2d3535353f6c6f676f3d7765627061636b267374796c653d666f722d7468652d6261646765" alt="webpack" title="Webpack" data-canonical-src="https://img.shields.io/badge/Webpack-555?logo=webpack&amp;style=for-the-badge" style="max-width: 100%;"></a>
+  <a href="https://www.npmjs.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/382a07f2b5f27260830ca0fd45c48a672fe6bfb01ee17dead3e9ce66d0325d87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e706d2d3535353f6c6f676f3d6e706d267374796c653d666f722d7468652d6261646765" alt="npm" title="NPM" data-canonical-src="https://img.shields.io/badge/Npm-555?logo=npm&amp;style=for-the-badge" style="max-width: 100%;"></a> 
+  <a href="https://www.figma.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/ea9fc59468ea4aec2ac0a85bb88b2b4248aca96871339729f0e12cebac618436/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3535353f6c6f676f3d6669676d61267374796c653d666f722d7468652d6261646765" alt="figma" title="Figma" data-canonical-src="https://img.shields.io/badge/Figma-555?logo=figma&amp;style=for-the-badge" style="max-width: 100%;"></a>   
 </p>
 <p align="center" dir="auto"> 
 <a href="https://github.com/gtgambit"><img src="https://camo.githubusercontent.com/d7490794a2d042e6eb6a434616022fe17f075368c31740e69bf1b3cb0acb273f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtgambit&amp;layout=compact" style="max-width: 100%;"></a>
