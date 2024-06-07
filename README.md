@@ -144,8 +144,5 @@ Developing a React Native mobile application with form validation and authorizat
   <a href="https://www.npmjs.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/382a07f2b5f27260830ca0fd45c48a672fe6bfb01ee17dead3e9ce66d0325d87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e706d2d3535353f6c6f676f3d6e706d267374796c653d666f722d7468652d6261646765" alt="npm" title="NPM" data-canonical-src="https://img.shields.io/badge/Npm-555?logo=npm&amp;style=for-the-badge" style="max-width: 100%;"></a> 
   <a href="https://www.figma.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/ea9fc59468ea4aec2ac0a85bb88b2b4248aca96871339729f0e12cebac618436/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3535353f6c6f676f3d6669676d61267374796c653d666f722d7468652d6261646765" alt="figma" title="Figma" data-canonical-src="https://img.shields.io/badge/Figma-555?logo=figma&amp;style=for-the-badge" style="max-width: 100%;"></a>
 </p>
-<p align="center" dir="auto"> 
-<a href="https://github.com/gtgambit"><img src="https://camo.githubusercontent.com/d7490794a2d042e6eb6a434616022fe17f075368c31740e69bf1b3cb0acb273f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtgambit&amp;layout=compact" style="max-width: 100%;"></a>
-</p>
 </article>
   </div>
